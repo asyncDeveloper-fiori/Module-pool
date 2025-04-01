@@ -1,0 +1,6 @@
+The program is a module pool program where there are 2 input output fields .
+One fields for email id and other for description.
+A push button to upload file (image file).
+Another submit button is also there.
+We fill details and upload image file.
+Then when we click submit then a email goes to the specified email id with the description in the body and the email as a attatchment
